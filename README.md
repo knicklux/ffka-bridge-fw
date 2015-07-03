@@ -31,4 +31,5 @@ bridge_firewall:
 
 
 Freifunk on IRC: irc.hackint.net #freifunk
+
 Freifunk Karlsruhe config: https://github.com/ffka/site-ffka/blob/master/site.conf
